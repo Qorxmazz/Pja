@@ -1,0 +1,27 @@
+body{ background-color: #84B574
+
+}
+.h {
+  color: red;
+  font size: 1000px;
+  font-weight: bolder;
+}
+#img1{
+  height: 150px
+}
+#img2{
+  height: 150px;
+}
+#img3{
+  height: 150px;
+}
+#img4{
+  height: 150px
+}
+#img5{
+  height: 150px
+}
+#div1{
+  border-style: double;
+  background-color: #84B574;
+}
